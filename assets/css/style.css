@@ -1111,3 +1111,6 @@ main {
     background-color: var(--orange);
     color: white;
 }
+.row {
+    --bs-gutter-x: 2rem !important;
+}
